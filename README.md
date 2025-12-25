@@ -16,6 +16,10 @@ A Python project that converts text and URLs into QR codes.
 ```bash
 pip install qrcode[pil]
 ```
+## Screenshot
+
+![QR Code Output](qrcode.png)
+
 
 ## Author
 Remsha Gopi
